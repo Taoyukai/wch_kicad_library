@@ -17,6 +17,7 @@ wch-antenna.pretty clone from https://github.com/sad-electronics/wch-kicad-lbr
 | ------------ | ------------------ | -------------------- |
 | CH32V003F4P6 | :heavy_check_mark: | :heavy_check_mark:   |
 | CH32V203CxT6 | :heavy_check_mark: | :heavy_check_mark:   |
+| CH32V208WBU6 | :heavy_check_mark: | :heavy_check_mark:   |
 | CH32V305FBP6 | :heavy_check_mark: | :heavy_check_mark:   |
 | CH32V307RCT6 | :heavy_check_mark: | :heavy_check_mark:   |
 | CH32V307VCT6 | :heavy_check_mark: | :heavy_check_mark:   |
@@ -29,6 +30,10 @@ wch-antenna.pretty clone from https://github.com/sad-electronics/wch-kicad-lbr
 | CH213K | :heavy_check_mark: | :heavy_check_mark:   |
 | CH217K | :heavy_check_mark: | :heavy_check_mark:   |
 | CH217X | :heavy_check_mark: | :x:                  |
+| CH224K | :heavy_check_mark: | :heavy_check_mark:   |
+| CH334H | :heavy_check_mark: | :x:                  |
 | CH334R | :heavy_check_mark: | :heavy_check_mark:   |
+| CH334U | :heavy_check_mark: | :heavy_check_mark:   |
 | CH343P | :heavy_check_mark: | :heavy_check_mark:   |
+| CH412Z | :heavy_check_mark: | :heavy_check_mark:   |
 | CH462X | :heavy_check_mark: | :heavy_check_mark:   |
